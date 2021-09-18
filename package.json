@@ -16,6 +16,7 @@
     "express": "^4.17.1",
     "mysql2": "^2.3.0",
     "nodemon": "^2.0.12",
+    "react-confirm-alert": "^2.7.0",
     "sequelize": "^6.6.5",
     "sequelize-auto": "^0.8.4"
   }
